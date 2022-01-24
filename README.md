@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-🔭 I’m currently working on CodingAbilityIncrease Challange  
+🌱 I’m currently learning  on CodingAbilityIncrease Challange  
 link : [link](https://github.com/woongjoonchoi/CodingAbilityIncreaseChallange)
 <!--
 **woongjoonchoi/woongjoonchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
