@@ -1,7 +1,9 @@
 ## Hi there 👋
 
+I'm ML(machine learning) Engineer who specialize in DeepLearning.
 
 ## Education
+* Google ML bootcamp
 * Computer Science(B.S.) ,KoreaAeroSpace univ   2015-2021
 
   
