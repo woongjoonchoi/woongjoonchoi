@@ -1,6 +1,12 @@
 ## Hi there 👋
 
 
+## Education
+* Computer Science(B.S.) ,KoreaAeroSpace univ   2015-2021
+
+  
+
+  
 🌱 I’m currently doing   CodingAbilityIncrease Challange  
 link : [link](https://github.com/woongjoonchoi/CodingAbilityIncreaseChallange)  
 ### Why do this?
