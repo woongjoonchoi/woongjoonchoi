@@ -4,7 +4,7 @@ I'm ML(machine learning) Engineer who specialize in DeepLearning.
 
 ## Education
 * Google ML bootcamp 2021 Aug - 2021 Dec
-* Naver Boostcamp AI tech 2021 AUg - 2021 Dec
+* Naver Boostcamp AI tech 2021 AUg - 2022 Jan
 * Computer Science(B.S.) ,KoreaAeroSpace univ   2015-2021
 
   
