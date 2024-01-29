@@ -23,6 +23,7 @@ I'm ML(machine learning) Engineer who specialize in DeepLearning.
 + Coursera의 DeepLearning Specialization Course를 수강하여 딥러닝 task에 대해 이론적인 지식을 강화함
 + Google Cloud의 Professional Data Engineer 자격증을 취득함.
 
+</details>  
 
 ## Personal Project
 
