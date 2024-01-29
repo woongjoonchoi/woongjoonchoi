@@ -7,10 +7,21 @@ I'm ML(machine learning) Engineer who specialize in DeepLearning.
 + CS:		Data structures and algorithms([링크](https://github.com/woongjoonchoi/CodingTest/tree/main/geeksforgeeks)), Networking  , Operating   System ,Programming Language ,           Theory and Compiler , Database , cryptology
 + AI:		Pytorch([링크](https://woongjoonchoi.github.io/categories/Pytorch)),Deep Learning([링크](https://woongjoonchoi.github.io/categories/DLArchitecture)),NLP,Computer Vision , Machine Learning ,Linear Algebra, Statistics & Probability
 + Cloud:		GCP
-## Education
-* Google ML bootcamp 2021 Aug - 2021 Dec
-* Naver Boostcamp AI tech 2021 AUg - 2022 Jan
-* Computer Science(B.S.) ,KoreaAeroSpace univ   2015-2021
+
+## Carrer
+<details>
+    <summary>자세히 보기</summary>  
+### Naver boostcamp AI Tech
+2021.Aug - 2022.Jan  
++ 3개의 Team을 적극적으로 이끌며 , 문서 관리 및 GIt을 사용한 프로젝트 관리. 이를 통해 주도적으로 원격협업을 이끌었음.
++ 내부 Competetion에서 Team을 리드하여 , 각각 3등 , 6등의 성과를 달성함
++ 기초 Coruse에서 Math,Python,Data Visualization , DeepLearning Architecture 관련 지식을 습득함.
++ NLP Course Track을 선택하여 LLM,ODQA,Relation Extraction 등의 task를 학습하였음.
++ 내부 커뮤니티에서 매일 글쓰기 활동 및 Q&A 활동을 적극적으로 임하여 노력왕에 선정됨
+### Google MachineLearning Bootcamp
+2021.Aug - 2021.DEC  
++ Coursera의 DeepLearning Specialization Course를 수강하여 딥러닝 task에 대해 이론적인 지식을 강화함
++ Google Cloud의 Professional Data Engineer 자격증을 취득함.
 
 
 ## Personal Project
@@ -47,7 +58,11 @@ I'm ML(machine learning) Engineer who specialize in DeepLearning.
 + Binary Classifiaction으로 Face Verification Model을 scratch부터 작성하였으나 실패. 여기서, Pretrained model의 중요성을 깨달음
 + Github링크:(https://github.com/woongjoonchoi/final-project-level3-nlp-19) ,블로그링크:(https://woongjun-warehouse.tistory.com/25)
 
-  
+## Education
+* Google ML bootcamp 2021 Aug - 2021 Dec
+* Naver Boostcamp AI tech 2021 AUg - 2022 Jan
+* Computer Science(B.S.) ,KoreaAeroSpace univ   2015-2021
+
 
 <!--
 **woongjoonchoi/woongjoonchoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
