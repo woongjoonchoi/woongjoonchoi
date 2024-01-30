@@ -90,6 +90,19 @@ certificate([link](https://www.coursera.org/account/accomplishments/specializati
 
  </details> 
 
+<details>
+    <summary> NoteTaking(버튼클릭)</summary>  
+    
+1. Structuring your machine learning projects  
+        [Link]()
+2. Optimization,HyperParameter Tuning
+
+3. Convolution Neural Network
+
+4. Sequence Model
+    
+</details>
+
 ## MIt 6.006(Introduction to Algorithm):
 
 ## Berkely CS 162 : 
@@ -100,8 +113,43 @@ certificate([link](https://www.coursera.org/account/accomplishments/specializati
 
 ## 3b1b Calculus 
 
+## Python
+Python self-studying by STEM Book and Cpython github source.
+
+<details>
+    <summary>자세히보기</summary> 
+    
+### Learning Python
+STEM Books about Python Beginner ~ Intermediate
+<details>
+    <summary>Note Taking</summary>  
+[Link](https://woongjoonchoi.github.io/tags/#learnigpython)
+</details>
+
+### Python Performance in terms of Python internal implementation
+Python Peformance를 내부 구현 관점에서 바라봅니다. 
+<details>
+    <summary>Note Taking</summary>  
+[Link](https://woongjoonchoi.github.io/tags/#pythoninternal)
+</details>
 
 </details>
+
+## Git-SCm
+
+STEM book about git in terms of Distributed Version control system
+
+<details>
+    <summary> 자세히보기 </summary>  
+    
+[Note-taking](https://woongjoonchoi.github.io/tags/#git)
+
+</details>
+
+
+</details>
+
+
 
 ## Education
 
