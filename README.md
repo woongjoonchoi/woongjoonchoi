@@ -11,6 +11,7 @@ I'm ML(machine learning) Engineer who specialize in DeepLearning.
 ## Carrer
 <details>
     <summary>자세히 보기</summary>  
+    
 ### Naver boostcamp AI Tech
 2021.Aug - 2022.Jan  
 + 3개의 Team을 적극적으로 이끌며 , 문서 관리 및 GIt을 사용한 프로젝트 관리. 이를 통해 주도적으로 원격협업을 이끌었음.
@@ -59,7 +60,13 @@ I'm ML(machine learning) Engineer who specialize in DeepLearning.
 + Binary Classifiaction으로 Face Verification Model을 scratch부터 작성하였으나 실패. 여기서, Pretrained model의 중요성을 깨달음
 + Github링크:(https://github.com/woongjoonchoi/final-project-level3-nlp-19) ,블로그링크:(https://woongjun-warehouse.tistory.com/25)
 
+</details>
+
 ## Education
+
+<details>
+    <summary>자세히 보기</summary>  
+
 * Google ML bootcamp 2021 Aug - 2021 Dec
 * Naver Boostcamp AI tech 2021 AUg - 2022 Jan
 * Computer Science(B.S.) ,KoreaAeroSpace univ   2015-2021
