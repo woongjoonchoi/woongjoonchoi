@@ -94,11 +94,11 @@ certificate([link](https://www.coursera.org/account/accomplishments/specializati
     <summary> NoteTaking(버튼클릭)</summary>  
     
 1. Structuring your machine learning projects  
-        [Link]()
+        [Link](https://woongjoonchoi.github.io/tags/#dlsc3)
 2. Optimization,HyperParameter Tuning
-
+    [Link](https://woongjoonchoi.github.io/tags/#dlsc2)
 3. Convolution Neural Network
-
+    [Link](https://woongjoonchoi.github.io/tags/#dlsc4)
 4. Sequence Model
     
 </details>
