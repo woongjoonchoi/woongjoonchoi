@@ -65,6 +65,9 @@ I'm ML(machine learning) Engineer who specialize in DeepLearning.
 ## OCW and Mooc
 개인적으로 공부한 OCW,Mooc and STEM books.
 
+<details>
+    <summary>자세히 보기</summary>  
+</details>
 
 ## Education
 
