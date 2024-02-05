@@ -18,7 +18,7 @@ I'm ML(machine learning) Engineer who specialize in DeepLearning.
 + 내부 Competetion에서 Team을 리드하여 , 각각 3등 , 6등의 성과를 달성함
 + 기초 Coruse에서 Math,Python,Data Visualization , DeepLearning Architecture 관련 지식을 습득함.
 + NLP Course Track을 선택하여 LLM,ODQA,Relation Extraction 등의 task를 학습하였음.
-+ 내부 커뮤니티에서 매일 글쓰기 활동 및 Q&A 활동을 적극적으로 임하여 노력왕에 선정됨
++ 내부 커뮤니티에서 매일 글쓰기 활동 및 Q&A 활동을 적극적으로 임하여 BoostTech를 빛낸 캠퍼에 선정됨
 ### Google MachineLearning Bootcamp
 2021.Aug - 2021.DEC  
 + Coursera의 DeepLearning Specialization Course를 수강하여 딥러닝 task에 대해 이론적인 지식을 강화함
