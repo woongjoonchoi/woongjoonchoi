@@ -109,7 +109,7 @@ certificate([link](https://www.coursera.org/account/accomplishments/specializati
 
 ### data api
     
-[Link Kor](https://woongjoonchoi.github.io/tags/#pytorch-data-api)
+[Link Kor](https://woongjoonchoi.github.io/tags/#pytorch-data-api)  
 [Link Eng](https://oongjoon.github.io/tags/#pytorch-data-api)
 </details>
 
