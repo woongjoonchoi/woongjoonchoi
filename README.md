@@ -104,6 +104,13 @@ certificate([link](https://www.coursera.org/account/accomplishments/specializati
 </details>
 
 ## MIt 6.006(Introduction to Algorithm):
+<details>
+    <summary> Assignment(버튼클릭) </summary>  
+
+    lec 09 . DFS and Topological Orer
+        [Link_Kor](https://woongjoonchoi.github.io/algorithm/Topological-order/)
+        [Link_Eng](https://oongjoon.github.io/algorithm/Topological-order/)
+</details>
 
 ## Berkely CS 162 : 
 
@@ -123,6 +130,7 @@ Python self-studying by STEM Book and Cpython github source.
 STEM Books about Python Beginner ~ Intermediate
 <details>
     <summary>Note Taking</summary>  
+    
 [Link](https://woongjoonchoi.github.io/tags/#learnigpython)
 </details>
 
@@ -130,8 +138,24 @@ STEM Books about Python Beginner ~ Intermediate
 Python Peformance를 내부 구현 관점에서 바라봅니다. 
 <details>
     <summary>Note Taking</summary>  
-[Link](https://woongjoonchoi.github.io/tags/#pythoninternal)
-</details>
+
+#### Total Link about python internal
+    
+[InternalAll_Kor](https://woongjoonchoi.github.io/tags/#pythoninternal)  
+    
+[InternalAll_Eng](https://oongjoon.github.io/tags/#pythoninternal)  
+
+#### Link About Python Integer Internal
+
+[Integer_internal_kor](https://woongjoonchoi.github.io/tags/#integerinternal)  
+
+[Integer_internal_English](https://oongjoon.github.io/tags/#integerinternal)  
+
+#### Link About Python String operation and method Internal
+[String method internal kor](https://woongjoonchoi.github.io/tags/#stringinternal)  
+
+[String method internal Eng](https://oongjoon.github.io/tags/#stringinternal)  
+</details>  
 
 </details>
 
