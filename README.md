@@ -105,11 +105,22 @@ certificate([link](https://www.coursera.org/account/accomplishments/specializati
 
 ## MIt 6.006(Introduction to Algorithm):
 <details>
+    <summary> NoteTaking(버튼클릭) </summary>  
+
+### lec 09  DFS and Topological Order  
+
+[Link_Kor](https://woongjoonchoi.github.io/algorithm/Topological-order/)  
+[Link_Eng](https://oongjoon.github.io/algorithm/Topological-order/)
+        
+</details>
+
+<details>
     <summary> Assignment(버튼클릭) </summary>  
 
-    lec 09 . DFS and Topological Orer
-        [Link_Kor](https://woongjoonchoi.github.io/algorithm/Topological-order/)
-        [Link_Eng](https://oongjoon.github.io/algorithm/Topological-order/)
+### Problem5  
+
+[GithubLInk](https://github.com/woongjoonchoi/OCW-and-MOCC/blob/master/MIT-6.006-Algorithm/mit.prob5.5.py)  
+        
 </details>
 
 ## Berkely CS 162 : 
