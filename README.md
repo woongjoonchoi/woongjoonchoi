@@ -103,6 +103,16 @@ certificate([link](https://www.coursera.org/account/accomplishments/specializati
     
 </details>
 
+## Pytorch
+<details>
+    <summary> NoteTaking(버튼클릭) </summary> 
+
+### data api
+    
+[Link Kor](https://woongjoonchoi.github.io/tags/#pytorch-data-api)
+[Link Eng](https://oongjoon.github.io/tags/#pytorch-data-api)
+</details>
+
 ## MIt 6.006(Introduction to Algorithm):
 <details>
     <summary> NoteTaking(버튼클릭) </summary>  
