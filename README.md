@@ -142,7 +142,27 @@ STEM Books about Python Beginner ~ Intermediate
 <details>
     <summary>Note Taking</summary>  
     
-[Link](https://woongjoonchoi.github.io/tags/#learnigpython)
+#### All Post
+    
+[Kor Link](https://woongjoonchoi.github.io/tags/#learningpython)  
+[Eng Link](https://oongjoon.github.io/tags/#learningpython)
+
+#### Chp 4 Built-in Objects
+[Kor Link](https://woongjoonchoi.github.io/tags/#chp4objetcs)  
+[Eng Link](https://oongjoon.github.io/tags/#chp4objetcs)
+
+#### Chp 5 Numeric
+[Kor Link](https://woongjoonchoi.github.io/tags/#chp5numeric)  
+[Eng Link](https://oongjoon.github.io/tags/#chp5numeric)  
+
+#### Chp 13 Loop
+[Kor Link](https://woongjoonchoi.github.io/tags/#chp13loop)  
+[Eng Link](https://oongjoon.github.io/tags/#chp13loop)  
+
+
+#### Chp 17 Scope
+[Kor Link](https://woongjoonchoi.github.io/tags/#chp17scope)  
+[Eng Link](https://oongjoon.github.io/tags/#chp17scope)
 </details>
 
 ### Python Performance in terms of Python internal implementation
