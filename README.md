@@ -8,6 +8,9 @@ I'm ML(machine learning) Engineer who specialize in DeepLearning.
 + AI:		Pytorch([링크](https://woongjoonchoi.github.io/categories/Pytorch)),Deep Learning([링크](https://woongjoonchoi.github.io/categories/DLArchitecture)),NLP,Computer Vision , Machine Learning ,Linear Algebra, Statistics & Probability
 + Cloud:		GCP
 
+## OpenSource Contribution
+1 . Pytorch Tutorial 오타 수정   [https://github.com/pytorch/tutorials/pull/1845](https://github.com/pytorch/tutorials/pull/1845) 
+
 ## Carrer
 <details>
     <summary>자세히 보기</summary>  
