@@ -11,6 +11,7 @@ I'm ML(machine learning) Engineer who specialize in DeepLearning.
 ## OpenSource Contribution
 1 . Pytorch Tutorial 오타 수정   [https://github.com/pytorch/tutorials/pull/1845](https://github.com/pytorch/tutorials/pull/1845)  
 2 . Pytorch Md5 Checksum issue find [https://github.com/pytorch/vision/issues/8220](https://github.com/pytorch/vision/issues/8220)  
+3 . Pytorch Tutorial Contribution [https://github.com/pytorch/tutorials/pull/2971](https://github.com/pytorch/tutorials/pull/2971)
 
 ## Carrer
 <details>
