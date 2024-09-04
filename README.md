@@ -16,7 +16,12 @@ I'm ML(machine learning) Engineer who specialize in DeepLearning.
 ## Carrer
 <details>
     <summary>자세히 보기</summary>  
-    
+
+### Researcher
+#### KIST
+2024.Sep - 
++ 컴퓨터 비전 경량화 연구
+
 ### Naver boostcamp AI Tech
 2021.Aug - 2022.Jan  
 + 3개의 Team을 적극적으로 이끌며 , 문서 관리 및 GIt을 사용한 프로젝트 관리. 이를 통해 주도적으로 원격협업을 이끌었음.
