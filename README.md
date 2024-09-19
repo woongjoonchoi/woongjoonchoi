@@ -21,6 +21,7 @@ I'm ML(machine learning) Engineer who specialize in DeepLearning.
 #### KIST
 2024.Sep - 
 + 컴퓨터 비전 경량화 연구
++ MLSystem(ex.kernel implementation,Distribute training,Distributed Inference)연구
 
 ### Naver boostcamp AI Tech
 2021.Aug - 2022.Jan  
