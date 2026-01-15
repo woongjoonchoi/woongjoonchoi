@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Research scientist who specialize in low-level optimization ,espically DeepLearning.
+I'm Research scientist who specializes in system-algo co-design aware hardware.
 ## TechStack
 + Languages:	Python([링크](https://woongjoonchoi.github.io/categories/Python)  , Java, C++([링크](https://github.com/woongjoonchoi/Algorithm))
 + Tool : 		Slack , Zoom, Git([링크](https://woongjoonchoi.github.io/categories/CICD)) ,VsCode ,Jupyter Notebook, drawio
