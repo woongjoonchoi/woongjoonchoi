@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 I'm Research scientist who specializes in system-algo co-design aware hardware.
+<!--
 ## TechStack
 + Languages:	Python([링크](https://woongjoonchoi.github.io/categories/Python)  , Java, C++([링크](https://github.com/woongjoonchoi/Algorithm))
 + Tool : 		Slack , Zoom, Git([링크](https://woongjoonchoi.github.io/categories/CICD)) ,VsCode ,Jupyter Notebook, drawio
@@ -12,7 +13,7 @@ I'm Research scientist who specializes in system-algo co-design aware hardware.
 1 . Pytorch Tutorial 오타 수정   [https://github.com/pytorch/tutorials/pull/1845](https://github.com/pytorch/tutorials/pull/1845)  
 2 . Pytorch Md5 Checksum issue find [https://github.com/pytorch/vision/issues/8220](https://github.com/pytorch/vision/issues/8220)  
 3 . Pytorch Tutorial Contribution [https://github.com/pytorch/tutorials/pull/2971](https://github.com/pytorch/tutorials/pull/2971)
-
+-->
 ## Carrer
 <details>
     <summary>자세히 보기</summary>  
@@ -22,7 +23,7 @@ I'm Research scientist who specializes in system-algo co-design aware hardware.
 2024.Sep - 
 + 컴퓨터 비전 경량화 연구
 + MLSystem(ex.kernel implementation,Distribute training,Distributed Inference)연구
-
+<!--
 ### Naver boostcamp AI Tech
 2021.Aug - 2022.Jan  
 + 3개의 Team을 적극적으로 이끌며 , 문서 관리 및 GIt을 사용한 프로젝트 관리. 이를 통해 주도적으로 원격협업을 이끌었음.
@@ -34,8 +35,11 @@ I'm Research scientist who specializes in system-algo co-design aware hardware.
 2021.Aug - 2021.DEC  
 + Coursera의 DeepLearning Specialization Course를 수강하여 딥러닝 task에 대해 이론적인 지식을 강화함
 + Google Cloud의 Professional Data Engineer 자격증을 취득함.
-
+-->
 </details>  
+
+<!--
+
 
 ## Personal Project
 
@@ -72,7 +76,7 @@ I'm Research scientist who specializes in system-algo co-design aware hardware.
 + Github링크:(https://github.com/woongjoonchoi/final-project-level3-nlp-19) ,블로그링크:(https://woongjun-warehouse.tistory.com/25)
 
 </details>
-
+-->
 ## OCW and Mooc
 개인적으로 공부한 OCW,Mooc and STEM books.
 
