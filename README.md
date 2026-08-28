@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a research scientist working at the intersection of ML systems and computer vision, developing execution abstractions and algorithmic transformations that bridge the gap between structured vision workloads and practical system execution. I'm advised by Yonghun Choi.
+I am a research scientist working at the intersection of ML systems and computer vision, developing execution abstractions and algorithmic transformations that bridge the gap between structured vision workloads and practical system execution. I am advised by Dr. Yonghoon Choi, a Senior Researcher at VIG, KIST AI Research Division.
 <!--
 ## TechStack
 + Languages:	Python([링크](https://woongjoonchoi.github.io/categories/Python)  , Java, C++([링크](https://github.com/woongjoonchoi/Algorithm))
