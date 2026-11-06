@@ -8,12 +8,24 @@ I am a research scientist working at the intersection of ML systems and computer
 + CS:		Data structures and algorithms([링크](https://github.com/woongjoonchoi/CodingTest/tree/main/geeksforgeeks)), Networking  , Operating   System ,Programming Language ,           Theory and Compiler , Database , cryptology
 + AI:		Pytorch([링크](https://woongjoonchoi.github.io/categories/Pytorch)),Deep Learning([링크](https://woongjoonchoi.github.io/categories/DLArchitecture)),NLP,Computer Vision , Machine Learning ,Linear Algebra, Statistics & Probability
 + Cloud:		GCP
-
-## OpenSource Contribution
-1 . Pytorch Tutorial 오타 수정   [https://github.com/pytorch/tutorials/pull/1845](https://github.com/pytorch/tutorials/pull/1845)  
-2 . Pytorch Md5 Checksum issue find [https://github.com/pytorch/vision/issues/8220](https://github.com/pytorch/vision/issues/8220)  
-3 . Pytorch Tutorial Contribution [https://github.com/pytorch/tutorials/pull/2971](https://github.com/pytorch/tutorials/pull/2971)
 -->
+## Open Source Contribution
+### Featured Contributions
+- **Ubuntu Linux Kernel** — Investigated an AMD KFD kernel crash, submitted an upstream fix backport, and verified the fix through Ubuntu's SRU process.
+  - **Released:** Ubuntu 26.04, Linux 7.0.0-43.43 (November 2026)
+  - **Validation:** 10 error-path occurrences, 0 kernel Oops
+  - **Links:** [Bug Report](https://bugs.launchpad.net/bugs/2168705) · [Patch Submission](https://lists.ubuntu.com/archives/kernel-team/2026-September/172545.html)
+
+### Other Contributions
+- Add smaller bug fixes, documentation improvements, or maintenance contributions here.
+    <details>
+        <summary>자세히 보기</summary>  
+    
+    1 . Pytorch Tutorial typo correction   [https://github.com/pytorch/tutorials/pull/1845](https://github.com/pytorch/tutorials/pull/1845)  
+    2 . Pytorch Md5 Checksum issue find [https://github.com/pytorch/vision/issues/8220](https://github.com/pytorch/vision/issues/8220)  
+    3 . Pytorch Tutorial Contribution [https://github.com/pytorch/tutorials/pull/2971](https://github.com/pytorch/tutorials/pull/2971)
+    </details>  
+
 ## Carrer
 <details>
     <summary>자세히 보기</summary>  
