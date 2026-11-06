@@ -13,7 +13,6 @@ I am a research scientist working at the intersection of ML systems and computer
 ### Featured Contributions
 - **Ubuntu Linux Kernel** — Investigated an AMD KFD kernel crash, submitted an upstream fix backport, and verified the fix through Ubuntu's SRU process.
   - **Released:** Ubuntu 26.04, Linux 7.0.0-43.43 (November 2026)
-  - **Validation:** 10 error-path occurrences, 0 kernel Oops
   - **Links:** [Bug Report](https://bugs.launchpad.net/bugs/2168705) · [Patch Submission](https://lists.ubuntu.com/archives/kernel-team/2026-September/172545.html)
 
 ### Other Contributions
